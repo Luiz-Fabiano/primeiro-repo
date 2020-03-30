@@ -1,2 +1,2 @@
 # primeiro-repo
-Repositório onde serão armazenados os arquivos dos treinamentos realizados
+Primeiro repositório criado para testes e treinamento
